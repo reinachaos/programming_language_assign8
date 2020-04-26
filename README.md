@@ -7,7 +7,7 @@
 
 This code is the assignment 8 for UNT-CSCE programming language 2020 spr.
 
-The code is for the Cracker Barrel Peg Puzzle and the result will show the condition when A--O be the empty point
+The code is for the Cracker Barrel Peg Puzzle and the result will show the path when A--O be the empty point
 
 
 
