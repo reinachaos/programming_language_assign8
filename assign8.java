@@ -170,20 +170,6 @@ public class assign8 implements Cloneable
     {       
     	
     	doRun('A');  
-    	doRun('B'); 
-    	doRun('C'); 
-    	doRun('D'); 
-    	doRun('E'); 
-    	doRun('F'); 
-    	doRun('G'); 
-    	doRun('H'); 
-    	doRun('I'); 
-    	doRun('J'); 
-    	doRun('K');   
-    	doRun('L'); 
-    	doRun('M'); 
-    	doRun('N'); 
-    	doRun('O'); 
 
         
     }
