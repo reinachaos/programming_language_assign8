@@ -169,10 +169,7 @@ public class assign8 implements Cloneable
     public static void main(String [] args) 
     {       
     	
-    	doRun('A');
-    	doRun('B');
-    	doRun('D');
-    	doRun('E');         
+    	doRun('A');   
         
     }
 	
