@@ -164,7 +164,6 @@ public class assign8 implements Cloneable
         printStats(mc,ends);       
     }
     
-    // TODO this is really, really old code. Revisit this to make sure it is doing what you think.
     
     public static void main(String [] args) 
     {       
